@@ -3,7 +3,7 @@ vim
 
 It's super easy to get going. Set me up like so:
 
-    wget https://raw.github.com/mikepurvis/vim/master/setup.bash -O - | bash
+    wget https://raw.github.com/pmukherj/vim/master/setup.bash -O - | bash
 
 Note that if you have an existing ~/.vim folder, the installation will fail, and if
 you have an existing ~/.vimrc file, it will be moved to ~/.vimrc.bak. The shebang
